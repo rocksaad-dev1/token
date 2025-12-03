@@ -1,1 +1,1 @@
-cd /etc/pterodactyl && sudo wings configure --panel-url http://192.168.83.129 --token ptla_0imSgrKj1dUc9yy1HnhOAGN9Un31wdD2pkMZiZAzA3U --node 1
+cd /etc/pterodactyl && sudo wings configure --panel-url http://192.168.83.129 --token ptla_0imSgrKj1dUc9yy1HnhOAGN9Un31wdD2pkMZiZAzA3U --node 2
